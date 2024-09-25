@@ -57,13 +57,13 @@ Para implementar el arquetipo se necesitas seguir los siguientes pasos:
         - **Appium.Net.Integration.Test.csproj**
         
 
-5. Abrir el archivo "Appium.NET.sln" en el IDE Microsoft Visual Studio 2022 (Community, Professional o Enterprise).
+- 4. Abrir el archivo "Appium.NET.sln" en el IDE Microsoft Visual Studio 2022 (Community, Professional o Enterprise).
 
-6. En la sección de Explorador de Soluciones, se debe seleccionar el archivo raíz Arquetipo Appium
+- 5. En la sección de Explorador de Soluciones, se debe seleccionar el archivo raíz Arquetipo Appium
 
-7. Se debe dar clic derecho y seleccionar la opción Limpiar para prepararla solución para su compilación.
+- 6. Se debe dar clic derecho y seleccionar la opción Limpiar para prepararla solución para su compilación.
 
-8. Se debe dar clic derecho y seleccionar la opción Compilar. (Cuando se compila la solución se debe validar que los paquetes Nuget de la sección de Dependencias se hayan descargado de manera satisfactoria). 
+- 7. Se debe dar clic derecho y seleccionar la opción Compilar. (Cuando se compila la solución se debe validar que los paquetes Nuget de la sección de Dependencias se hayan descargado de manera satisfactoria). 
 
 #################### Uso #################### 
 
