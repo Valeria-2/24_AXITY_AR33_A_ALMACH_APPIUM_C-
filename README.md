@@ -140,28 +140,26 @@ Para implementar el arquetipo se necesitas seguir los siguientes pasos:
 
   --- Es de vital importancia que los paquetes Nuget se han instalado de forma satisfactoria. Respecto a las configuraciones fueron detalladas a nivel de cada uno de los archivos aquí mencionados.
   
-
-
 ## Contribucion
 
-  --- Si la solución es de código abierto, incluye pautas sobre cómo contribuir al proyecto, como instrucciones para enviar solicitudes de extracción, reportar problemas, etc.
-  
-  --- Para realizar contribuciones a este proyecto se debe realizar un backup de la solución de manera local para que se adapte a las necesidades del proyecto en donde se desea implementar
+Si la solución es de código abierto, incluye pautas sobre cómo contribuir al proyecto, como instrucciones para enviar solicitudes de extracción, reportar problemas, etc.
+
+Para realizar contribuciones a este proyecto se debe realizar un backup de la solución de manera local para que se adapte a las necesidades del proyecto en donde se desea implementar
 
 ## Créditos
 
 Las personas que han contribuido a la solución.
 
-  ---Mauricio Gurrola Sánchez
-  ---Gustavo David Ramírez Ledesma
-  ---Osvaldo Alfredo Zamora Reyes
+  -Mauricio Gurrola Sánchez
+  -Gustavo David Ramírez Ledesma
+  -Osvaldo Alfredo Zamora Reyes
 
 ## Licencia 
 
-// Especifica la licencia bajo la cual se distribuye la solución y cualquier otra información legal relevante.
+Especifica la licencia bajo la cual se distribuye la solución y cualquier otra información legal relevante.
 
 ## Contacto
 
-  ---Mauricio Gurrola Sánchez         mauricio.gurrola@axity.com
-  ---Gustavo David Ramírez Ledesma    gustavo.ramirez@axity.com
-  ---Osvaldo Alfredo Zamora Reyes      osvaldo.zamor@axity.com
+  -Mauricio Gurrola Sánchez         mauricio.gurrola@axity.com
+  -Gustavo David Ramírez Ledesma    gustavo.ramirez@axity.com
+  -Osvaldo Alfredo Zamora Reyes      osvaldo.zamor@axity.com
