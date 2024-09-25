@@ -7,13 +7,13 @@
 Para implementar el arquetipo se necesitas seguir los siguientes pasos:
 
 - 1 Ingresar a la URL: https://github.com/Axitymx/24_AXITY_AR33_A_ALMACH_APPIUM_C-
-- 2. Ingresar a la sección Code (Seleccionar alguna de las opciones para clonar el repositorio de manera local)
+- 2 Ingresar a la sección Code (Seleccionar alguna de las opciones para clonar el repositorio de manera local)
       - **Utilizando la URL**: https://github.com/Axitymx/24_AXITY_AR33_A_ALMACH_APPIUM_C-.git
       - **Utilizando la instrucción** gh repo clone Axitymx/24_AXITY_AR33_A_ALMACH_APPIUM_C- :
       - **Abrirlo con GitHub Desktop**
       - **Abrirlo con Visual Studio**
       - **Descargarlo con ZIP**
-- 3. Una vez descargada la solución tendremos la siguiente estructura de carpetas:
+- 3 Una vez descargada la solución tendremos la siguiente estructura de carpetas:
 - **ArquetipoAppium**
   - **.github**
   - **.nuget**
@@ -54,12 +54,12 @@ Para implementar el arquetipo se necesitas seguir los siguientes pasos:
         - **Appium.Net.Integration.Test.csproj**
         
 
-- 4. Abrir el archivo "Appium.NET.sln" en el IDE Microsoft Visual Studio 2022 (Community, Professional o Enterprise).
-- 5. En la sección de Explorador de Soluciones, se debe seleccionar el archivo raíz Arquetipo Appium
-- 6. Se debe dar clic derecho y seleccionar la opción Limpiar para prepararla solución para su compilación.
-- 7. Se debe dar clic derecho y seleccionar la opción Compilar. (Cuando se compila la solución se debe validar que los paquetes Nuget de la sección de Dependencias se hayan descargado de manera satisfactoria). 
+- 4 Abrir el archivo "Appium.NET.sln" en el IDE Microsoft Visual Studio 2022 (Community, Professional o Enterprise).
+- 5 En la sección de Explorador de Soluciones, se debe seleccionar el archivo raíz Arquetipo Appium
+- 6 Se debe dar clic derecho y seleccionar la opción Limpiar para prepararla solución para su compilación.
+- 7 Se debe dar clic derecho y seleccionar la opción Compilar. (Cuando se compila la solución se debe validar que los paquetes Nuget de la sección de Dependencias se hayan descargado de manera satisfactoria). 
 
-#################### Uso #################### 
+## Uso 
 
 1. En la sección de Explorador de Soluciones, encontraremos las siguientes carpetas: 
 
@@ -136,17 +136,19 @@ Para implementar el arquetipo se necesitas seguir los siguientes pasos:
 
 
 
-#################### Configuración #################### 
+## Configuración
 
   --- Es de vital importancia que los paquetes Nuget se han instalado de forma satisfactoria. Respecto a las configuraciones fueron detalladas a nivel de cada uno de los archivos aquí mencionados.
   
 
 
-#################### Contribución ####################: Si la solución es de código abierto, incluye pautas sobre cómo contribuir al proyecto, como instrucciones para enviar solicitudes de extracción, reportar problemas, etc.
+## Contribucion
+
+  --- Si la solución es de código abierto, incluye pautas sobre cómo contribuir al proyecto, como instrucciones para enviar solicitudes de extracción, reportar problemas, etc.
   
   --- Para realizar contribuciones a este proyecto se debe realizar un backup de la solución de manera local para que se adapte a las necesidades del proyecto en donde se desea implementar
 
-#################### Créditos ####################
+## Créditos
 
 Las personas que han contribuido a la solución.
 
@@ -154,11 +156,11 @@ Las personas que han contribuido a la solución.
   ---Gustavo David Ramírez Ledesma
   ---Osvaldo Alfredo Zamora Reyes
 
-#################### Licencia ####################
+## Licencia 
 
 // Especifica la licencia bajo la cual se distribuye la solución y cualquier otra información legal relevante.
 
-#################### Contacto ####################
+## Contacto
 
   ---Mauricio Gurrola Sánchez         mauricio.gurrola@axity.com
   ---Gustavo David Ramírez Ledesma    gustavo.ramirez@axity.com
