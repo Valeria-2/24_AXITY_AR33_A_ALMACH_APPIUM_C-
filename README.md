@@ -138,7 +138,7 @@ Para implementar el arquetipo se necesitas seguir los siguientes pasos:
 
 ## Configuración
 
-  --- Es de vital importancia que los paquetes Nuget se han instalado de forma satisfactoria. Respecto a las configuraciones fueron detalladas a nivel de cada uno de los archivos aquí mencionados.
+Es de vital importancia que los paquetes Nuget se han instalado de forma satisfactoria. Respecto a las configuraciones fueron detalladas a nivel de cada uno de los archivos aquí mencionados.
   
 ## Contribucion
 
@@ -150,9 +150,9 @@ Para realizar contribuciones a este proyecto se debe realizar un backup de la so
 
 Las personas que han contribuido a la solución.
 
-  -Mauricio Gurrola Sánchez
-  -Gustavo David Ramírez Ledesma
-  -Osvaldo Alfredo Zamora Reyes
+  - Mauricio Gurrola Sánchez
+  - Gustavo David Ramírez Ledesma
+  - Osvaldo Alfredo Zamora Reyes
 
 ## Licencia 
 
@@ -160,6 +160,6 @@ Especifica la licencia bajo la cual se distribuye la solución y cualquier otra 
 
 ## Contacto
 
-  -Mauricio Gurrola Sánchez         mauricio.gurrola@axity.com
-  -Gustavo David Ramírez Ledesma    gustavo.ramirez@axity.com
-  -Osvaldo Alfredo Zamora Reyes      osvaldo.zamor@axity.com
+  - Mauricio Gurrola Sánchez          mauricio.gurrola@axity.com
+  - Gustavo David Ramírez Ledesma     gustavo.ramirez@axity.com
+  - Osvaldo Alfredo Zamora Reyes      osvaldo.zamor@axity.com
