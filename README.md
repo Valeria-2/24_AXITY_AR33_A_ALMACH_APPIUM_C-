@@ -166,5 +166,5 @@ Especifica la licencia bajo la cual se distribuye la solución y cualquier otra 
   - Osvaldo Alfredo Zamora Reyes      osvaldo.zamor@axity.com
   - Valeria Cortés Jaime              valeria.cortesj@axity.com
 
-!(test/integration/src/CReA.png)
+![inicio](./screenshot/CReA.png)
 
