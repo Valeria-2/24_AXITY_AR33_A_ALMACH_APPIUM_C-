@@ -153,6 +153,7 @@ Las personas que han contribuido a la solución.
   - Mauricio Gurrola Sánchez
   - Gustavo David Ramírez Ledesma
   - Osvaldo Alfredo Zamora Reyes
+  - Valeria Cortés Jaime
 
 ## Licencia 
 
@@ -163,3 +164,7 @@ Especifica la licencia bajo la cual se distribuye la solución y cualquier otra 
   - Mauricio Gurrola Sánchez          mauricio.gurrola@axity.com
   - Gustavo David Ramírez Ledesma     gustavo.ramirez@axity.com
   - Osvaldo Alfredo Zamora Reyes      osvaldo.zamor@axity.com
+  - Valeria Cortés Jaime              valeria.cortesj@axity.com
+
+
+
