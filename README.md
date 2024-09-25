@@ -1,8 +1,8 @@
-#################### Arquetipo Appium ####################
+# Arquetipo Appium 
 
-Este repositorio cuenta con un arquetipo el cual está customizado para la generación de scripts automatizados basados en Appium, Csharp y NUnit como Framework de Testing. La estructura aquí presentada está diseñada con el objetivo de estandarizar la generación y mantenimiento del script automatizado basado en buenas practicas que dicta la industria.
+- Este repositorio cuenta con un arquetipo el cual está customizado para la generación de scripts automatizados basados en Appium, Csharp y NUnit como Framework de Testing. La estructura aquí presentada está diseñada con el objetivo de estandarizar la generación y mantenimiento del script automatizado basado en buenas practicas que dicta la industria.
 
-#################### Instalación ####################
+## Instalación 
 
 Para implementar el arquetipo se necesitas seguir los siguientes pasos:
 
