@@ -6,17 +6,17 @@
 
 Para implementar el arquetipo se necesitas seguir los siguientes pasos:
 
-1. Ingresar a la URL: https://github.com/Axitymx/24_AXITY_AR33_A_ALMACH_APPIUM_C-
+- 1. Ingresar a la URL: https://github.com/Axitymx/24_AXITY_AR33_A_ALMACH_APPIUM_C-
 
-2. Ingresar a la sección Code (Seleccionar alguna de las opciones para clonar el repositorio de manera local)
+- 2. Ingresar a la sección Code (Seleccionar alguna de las opciones para clonar el repositorio de manera local)
       - **Utilizando la URL**: https://github.com/Axitymx/24_AXITY_AR33_A_ALMACH_APPIUM_C-.git
       - **Utilizando la instrucción** gh repo clone Axitymx/24_AXITY_AR33_A_ALMACH_APPIUM_C- :
-        - **Abrirlo con GitHub Desktop**
-        - **Abrirlo con Visual Studio**
-        - **Descargarlo con ZIP**
+      - **Abrirlo con GitHub Desktop**
+      - **Abrirlo con Visual Studio**
+      - **Descargarlo con ZIP**
      
--
-3. Una vez descargada la solución tendremos la siguiente estructura de carpetas:
+
+- 3. Una vez descargada la solución tendremos la siguiente estructura de carpetas:
 - **ArquetipoAppium**
   - **.github**
   - **.nuget**
