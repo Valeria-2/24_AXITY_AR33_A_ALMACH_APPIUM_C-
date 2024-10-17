@@ -116,7 +116,6 @@ Para implementar el arquetipo se necesitas seguir los siguientes pasos:
 
 
  ![inicio](./assets/tc_botones.png)
-
      - **En tc_data_driven encontraremos**:
 
        - **La clase TCDataDriven.cs**: es un ejemplo de caso de prueba que utiliza datos impulsados para probar diferentes nombre de paises en el droplist de la app. Esto permite realizar pruebas exhaustivas con diferentes conjuntos de datos para garantizar que el inicio de sesión funcione correctamente en diversas situaciones.
@@ -125,14 +124,13 @@ Para implementar el arquetipo se necesitas seguir los siguientes pasos:
 
  ![inicio](./assets/tc_datadriven.png)
 
-     - **En tc_end_to_end encontraremos**:
+    
+   - **En tc_end_to_end encontraremos**:
       
        -  **La clase TestSuiteE2E.cs** es un conjunto de pruebas de extremo a extremo para evaluar el flujo completo de una funcionalidad en la aplicación. En este caso, las pruebas se centran en el proceso desde la selección de un país y un producto hasta la confirmación del pedido. Para cada prueba, se prepara el ambiente iniciando la actividad de la aplicación, se interactúa con las páginas relevantes (InfoPage, ProductosPage, ConfirmacionPage) y se ejecuta la acción necesaria. Finalmente, se verifica si la confirmación del pedido se muestra correctamente en la pantalla mediante una aserción.
 
  ![inicio](./assets/tc_endtoend.png)
-
      - **En tc_texto encontraremos**:
-
        - **La clase TestSuiteText.cs**: implementa casos de prueba automatizados en una aplicación, validando varios aspectos como la visualización de la pantalla de inicio, la apertura de la aplicación sin errores, la interacción con elementos de la interfaz y la verificación de datos ingresados, incluyendo texto específico. Cada paso de la prueba se registra junto con capturas de pantalla, y se genera un informe detallado en formato CSV y HTML para un análisis exhaustivo de los resultados obtenidos. Este enfoque garantiza una documentación completa y clara de las pruebas realizadas y los resultados obtenidos.
 
  ![inicio](./assets/tc_texto.png)
@@ -148,17 +146,13 @@ Para implementar el arquetipo se necesitas seguir los siguientes pasos:
      - **Lectura Archivos**: En resumen, esta clase proporciona funcionalidad para leer un archivo CSV que contiene datos de informes de pruebas y convertir cada línea del archivo en objetos ReportModel, que contienen información específica de cada informe de prueba.
 
  ![inicio](./assets/lectura_archivos.png)
-
      - **Models:** En resumen, esta clase proporciona una estructura de datos para almacenar información detallada sobre los informes de prueba, incluyendo detalles sobre el proyecto, la ejecución, los casos de prueba y los resultados de los pasos de prueba.
 
  ![inicio](./assets/models.png)
-
      - **Utility:** Estas constantes proporcionan nombres y textos predefinidos que se utilizan en la generación de informes de pruebas automatizadas, lo que hace que el proceso de generación de informes sea más consistente y fácil de mantener.
 
  ![inicio](./assets/utility.png)
-
      - **CreateCSV.cs**: Proporciona funcionalidad para crear un archivo CSV a partir de una lista de modelos de informe. El método CreatFile recibe la ruta del archivo y la lista de modelos de informe. Luego, itera sobre cada modelo de informe y construye una fila de datos en el archivo CSV. Cada fila contiene información como el nombre del proyecto, el tiempo de ejecución, la fecha de inicio y fin de la ejecución, el estado de ejecución, las precondiciones, el nombre y descripción del caso de prueba, el nombre del script, la descripción del paso, el resultado del paso, el estatus del paso y la ruta de entrada. Estos datos se escriben en el archivo CSV separados por comas, lo que permite su fácil lectura y procesamiento posterior. Este proceso de creación de archivos CSV es útil para generar informes estructurados y legibles sobre la ejecución de pruebas automatizadas en entornos de desarrollo y pruebas.
-
      - **CreateReport.cs** se encarga de generar un informe en formato PDF a partir de los datos proporcionados en un archivo CSV. Este informe incluye información detallada sobre la ejecución de pruebas automatizadas realizadas con Appium, como el nombre del proyecto, el tiempo de ejecución, la fecha de inicio y fin de la ejecución, el estado de la ejecución, las precondiciones, el nombre del caso de prueba, la descripción del caso de prueba, el nombre del script, la descripción del paso, el resultado del paso, el estado del paso y la ruta de entrada. 
      Para la generación del PDF, se utilizan las librerías iText para manejar el formato y el diseño del documento. Se crea una tabla que contiene los datos generales del proyecto, como el nombre, el tiempo de ejecución y las precondiciones. Luego, se agregan secciones para la descripción del caso de prueba y los detalles de los pasos ejecutados, incluyendo su descripción, resultado y evidencia en forma de imágenes. Ee incluyen elementos visuales como un encabezado, un logotipo y una base gráfica para mejorar la presentación del informe. Se utilizan diferentes colores y estilos de fuente para resaltar la información importante y mejorar la legibilidad del documento. Finalmente, se añade un número de página en la parte inferior de cada página del informe para facilitar la navegación y la referencia en caso de ser necesario. El informe se guarda en la ubicación especificada y se devuelve la ruta del archivo generado.
 
