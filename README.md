@@ -66,7 +66,7 @@ Para implementar el arquetipo se necesitas seguir los siguientes pasos:
     - **drivers**
     - **Insumos**
     - **main**
-    - **main**
+    - **test**
    
 
 2. En la carpeta de Drivers encontraremos una caperta de Apps que son las aplicaciones moviles donde se realizarán las pruebas automatizadas 
