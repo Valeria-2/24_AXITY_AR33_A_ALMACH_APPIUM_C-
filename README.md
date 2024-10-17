@@ -67,6 +67,8 @@ Para implementar el arquetipo se necesitas seguir los siguientes pasos:
     - **Insumos**
     - **main**
     - **test**
+
+ ![inicio](test/integration/src/test/screenshots/Explorador_sol.png)
    
 
 2. En la carpeta de Drivers encontraremos una caperta de Apps que son las aplicaciones moviles donde se realizarán las pruebas automatizadas 
