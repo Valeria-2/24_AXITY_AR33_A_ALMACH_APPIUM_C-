@@ -102,7 +102,7 @@ Para implementar el arquetipo se necesitas seguir los siguientes pasos:
 
  ![inicio](./assets/util.png)
 
-6. En la carpeta de test encontraremos las carpetas:
+5. En la carpeta de test encontraremos las carpetas:
 
    - **screenshots**: En esta carpeta encontraremos los screenshot tomados para la generación del reporte
 
@@ -112,7 +112,7 @@ Para implementar el arquetipo se necesitas seguir los siguientes pasos:
    
      - **En tc_botones encontraremos**:
 
-       - **La clase TestSuiteBotones.cs** la cual es un conjunto de pruebas destinadas a evaluar la funcionalidad de los botones en la aplicación General Store. Cada método de prueba dentro de esta clase se enfoca en verificar una acción específica relacionada con los botones, como seleccionar el género femenino, hacer clic en el botón "Shop" o desplegar la lista de países. Utilizando Appium y NUnit como herramientas de pruebas, estos métodos inician la aplicación, realizan la acción correspondiente y luego verifican si el resultado es el esperado mediante aserciones.
+        **La clase TestSuiteBotones.cs** la cual es un conjunto de pruebas destinadas a evaluar la funcionalidad de los botones en la aplicación General Store. Cada método de prueba dentro de esta clase se enfoca en verificar una acción específica relacionada con los botones, como seleccionar el género femenino, hacer clic en el botón "Shop" o desplegar la lista de países. Utilizando Appium y NUnit como herramientas de pruebas, estos métodos inician la aplicación, realizan la acción correspondiente y luego verifican si el resultado es el esperado mediante aserciones.
 
 
  ![inicio](./assets/tc_botones.png)
