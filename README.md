@@ -2,6 +2,17 @@
 
 - Este repositorio cuenta con un arquetipo el cual está customizado para la generación de scripts automatizados basados en Appium, Csharp y NUnit como Framework de Testing. La estructura aquí presentada está diseñada con el objetivo de estandarizar la generación y mantenimiento del script automatizado basado en buenas practicas que dicta la industria.
 
+
+## INDICE
+
+1. [Instalación](#Instalación)
+2. [Uso](#Uso)
+3. [Configuracion](#Configuracion)
+4. [Contribución](#Contribución)
+5. [Créditos](#Créditos)
+6. [Licencia](#Licencia)
+7. [Contacto](#Contacto)
+
 ## Instalación 
 
 Para implementar el arquetipo se necesitas seguir los siguientes pasos:
